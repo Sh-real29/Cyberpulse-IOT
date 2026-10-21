@@ -1,0 +1,3 @@
+﻿TestCase,NetworkPrediction,AttackProbability,PhysicalFault,PhysicalProbability,TemporalEvidence,Score,RiskLevel
+Combined anomaly,ATTACK,0.99,IR_014_1,0.95,0.80,94,HIGH
+Normal scenario,BENIGN,0.10,Normal_1,0.95,0.00,0,LOW

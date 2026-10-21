@@ -1,0 +1,2 @@
+threshold,accuracy,attack_precision,attack_recall,attack_f1,benign_recall,false_positive_rate,false_negatives,false_positives,true_negatives,true_positives,roc_auc
+0.8,0.9825,0.9973692518152163,0.9844204403822185,0.9908525429930479,0.9327956989247311,0.06720430107526881,150,25,347,9478,0.9953352062309304
