@@ -1,3 +1,6 @@
+﻿fastapi
+uvicorn[standard]
+pydantic
 pandas
 numpy
 matplotlib
@@ -6,3 +9,4 @@ scikit-learn
 scipy
 jupyter
 joblib
+xgboost
